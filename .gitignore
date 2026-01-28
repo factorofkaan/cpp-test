@@ -1,0 +1,17 @@
+# Build outputs
+build/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+
+# VS Code
+.vscode/*.log
+.vscode/ipch/
+
+# OS
+.DS_Store
+Thumbs.db
